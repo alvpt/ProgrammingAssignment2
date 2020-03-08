@@ -1,6 +1,7 @@
+## The purpose of the combination of these functions 
+## is to return  the inverse of a matrix introduced
+## by the user.
 
-## The purpose of these functions
-## functions do
 
 ## This function creates a special "matrix" object
 ## that can cache its inverse.
